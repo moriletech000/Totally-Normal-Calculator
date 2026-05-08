@@ -40,7 +40,7 @@ The calculator has a 30% chance of giving you a wrong answer. It calculates the 
 Toggle it on and the chaos chance jumps to 60%. It says "More Accurate™" in the label. It is not more accurate.
 
 **The equals button is a liar**
-- 20% chance it just clears everything and says *"You thought 💀"*
+- 20% chance it just clears everything and says *"You thought "*
 - 15% chance it throws a fake error like *"Error: Math is temporarily unavailable"*
 - The rest of the time it loads dramatically and maybe gives you the right answer
 
@@ -48,14 +48,14 @@ Toggle it on and the chaos chance jumps to 60%. It says "More Accurate™" in th
 Every calculation triggers a loading bar. It takes between 0.5 and 2.5 seconds for no reason. Sometimes it resets at 99% and says *"Loading failed. Retrying..."*
 
 **Buttons that move**
-15% chance a button wiggles when you hover it. 10% chance buttons randomly swap positions when you click anything. The calculator will then say *"Buttons shuffled for your convenience 😊"*
+15% chance a button wiggles when you hover it. 10% chance buttons randomly swap positions when you click anything. The calculator will then say *"Buttons shuffled for your convenience "*
 
 **Trust Level meter**
-Starts at 100%. Decreases every time you press a button. Once it hits red, you get warnings like *"Trust Level Critical: Calculator may lie at any moment ⚠️"*. It was already lying before that.
+Starts at 100%. Decreases every time you press a button. Once it hits red, you get warnings like *"Trust Level Critical: Calculator may lie at any moment "*. It was already lying before that.
 
 **Roast messages**
 After calculations, there's a 25% chance you get a toast notification roasting you. Things like:
-- *"Bro really used a calculator for this? 💀"*
+- *"Bro really used a calculator for this? "*
 - *"Your math teacher is crying somewhere"*
 - *"Calculating your IQ... Error: Number too small"*
 
@@ -65,7 +65,7 @@ After calculations, there's a 25% chance you get a toast notification roasting y
 
 | Trigger | What happens |
 |---|---|
-| Type `69` or `420` | *"Nice. 😏"* |
+| Type `69` or `420` | *"Nice. "* |
 | Try `2 + 2` | 50% chance the answer is `5` with a philosophy lesson |
 | Try `9 + 10` | 40% chance you get `21` (the vine) |
 | Konami Code ↑↑↓↓←→←→ | Unlocks "Accurate Mode" — it barely works |
